@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://drosperyo.github.io/drosperyo.txt.gz
+Sitemap: https://drosperyo.github.io/app/drosperyo.txt.gz
+Sitemap: https://drosperyo.github.io/assets/drosperyo.txt.gz
+Sitemap: https://drosperyo.github.io/css/drosperyo.txt.gz
+Sitemap: https://drosperyo.github.io/includes/drosperyo.txt.gz
+Sitemap: https://drosperyo.github.io/item/drosperyo.txt.gz
+Sitemap: https://drosperyo.github.io/src/drosperyo.txt.gz
